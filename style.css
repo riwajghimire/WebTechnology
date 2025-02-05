@@ -1,0 +1,31 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+html{
+    font-size : 16px;
+}
+body{
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    color:red;
+    font-size  : 20px;
+    border : 20px solid greenyellow;
+    height: 100vh;
+
+}
+
+h1{
+    box-sizing : border-box;
+    width : 400px;
+    background-color:blanchedalmond;
+    border : 5px solid brown;
+    padding : 20px;    
+    margin : 20px;
+    text-align : center;
+    margin :  auto;
+}
+a{
+    background-color: bisque;
+    width: 110px;
+}
